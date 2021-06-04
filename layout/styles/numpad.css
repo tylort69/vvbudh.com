@@ -24,6 +24,7 @@ block[v2] {
     border-radius: 5px;
     text-align: center;
     border: 1px solid #b52adb;
+    
 }
 
 block[h2] {
@@ -34,7 +35,8 @@ block[h2] {
     text-align: center;
     border: 1px solid #b52adb;
 }
-block li:hover {  
+
+.block:hover {  
     position: relative;  
     top: 1px;  
     left: 1px;  
